@@ -13,3 +13,6 @@ This may be useful to academics who wish to use zotero references in capacities.
 1. With a reference highlighted, press Ctrl+Shift+C
 2. Paste (Ctrl + V) into Capacities
 3. I then convert this to a Publication object, which can be done quickly with the sequence Ctrl + V -> Esc -> I -> select object type from dropdown.
+
+## Acknowledgement
+This is modified from the Zotero to Tana translator as described at https://tana.inc/articles/how-to-use-zotero-with-tana-cortexfutura 
