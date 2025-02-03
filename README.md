@@ -1,7 +1,7 @@
 # zotero-capacities-translator
 A translator for pasting zotero references into capacities
 
-This may be useful to academics who wish to use zotero references in capacities. It allows for a reference from Zotero to easily be copied across to capacities in an appropriate format.
+This may be useful to academics who wish to use zotero references in Capacities. It allows for a reference from Zotero to easily be copied across to capacities in an appropriate format. Please note, it copies over bulleted text only and is not designed to integrate with Properties.
 
 ## Instructions for set-up
 1. Download the translator file.
